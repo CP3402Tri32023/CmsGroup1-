@@ -36,11 +36,31 @@ Make necessary changes to the codebase. Commit regularly with clear and concise 
 
 Push your branch to the remote repository. 
 
+```bash
+# Add changes to the staging area
+git add .
+
+# Commit changes with a descriptive message
+git commit -m "Your descriptive commit message"
+
+# Push changes to the remote repository (assuming 'origin' is the remote repository and 'feature-branch' is your branch)
+git push origin main
+```
 
 ### 4. Pull Request
 
 Create a pull request on the GitHub repository. Assign reviewers and ensure that the changes pass code review.
 
+```bash
+# Fetch the latest changes from the remote repository
+git fetch https://github.com/chirag170298/CmsGroup1-.git
+
+# Merge repository into local branch
+git merge origin/main
+
+# Fetch changes from main branch and merges into local branch
+git pull origin main
+```
 
 ### 5. Testing:
 
