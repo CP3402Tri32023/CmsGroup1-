@@ -1,0 +1,298 @@
+Log created: 2023-11-23 04:10:37
+Type: backup
+[2023-11-23 04:10:38][notice]Start backing up.
+[2023-11-23 04:10:38][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:62.55 MB memory_get_peak_usage:63.20 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:10:38][notice]Prepare to backup backup_db files.
+[2023-11-23 04:10:39][notice]Start exporting database.
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_wpforms_tasks_meta
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_actionscheduler_claims
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_actionscheduler_groups
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_links
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_term_relationships
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_actionscheduler_logs
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_commentmeta
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_postmeta
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_term_taxonomy
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_termmeta
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_terms
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_usermeta
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_users
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_wpforms_payment_meta
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_comments
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_actionscheduler_actions
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_wpforms_payments
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_posts
+[2023-11-23 04:10:39][notice]Preparing to dump table wp_options
+[2023-11-23 04:10:39][notice]Exporting database finished.
+[2023-11-23 04:10:39][notice]Start compressing database
+[2023-11-23 04:10:39][notice]Prepare to zip file. file: localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_db.sql
+[2023-11-23 04:10:39][notice]Adding zip files completed.localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_db.part001.zip, filesize: 1.45 MB
+[2023-11-23 04:10:40][notice]Compressing database completed
+[2023-11-23 04:10:40][notice]Backing up backup_db completed.
+[2023-11-23 04:10:40][notice]Prepare to backup backup_themes files.
+[2023-11-23 04:10:40][notice]Compressing zip file:localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_themes.part001.zip index:111
+[2023-11-23 04:10:40][notice]Compressing zip file:localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_themes.part001.zip success. index:111 file size:4.15 MB
+[2023-11-23 04:10:40][notice]Backing up backup_themes completed.
+[2023-11-23 04:10:40][notice]Prepare to backup backup_plugin files.
+[2023-11-23 04:10:42][notice]Compressing zip file:localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_plugin.part001.zip index:1917
+[2023-11-23 04:11:16][notice]Compressing zip file:localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_plugin.part001.zip success. index:1917 file size:29.96 MB
+[2023-11-23 04:11:16][notice]Backing up backup_plugin completed.
+[2023-11-23 04:11:16][notice]Prepare to backup backup_uploads files.
+[2023-11-23 04:11:16][notice]Compressing zip file:localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_uploads.part001.zip index:25
+[2023-11-23 04:11:16][notice]Compressing zip file:localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_uploads.part001.zip success. index:25 file size:2.91 MB
+[2023-11-23 04:11:16][notice]Backing up backup_uploads completed.
+[2023-11-23 04:11:16][notice]Prepare to backup backup_content files.
+[2023-11-23 04:11:16][notice]Compressing zip file:localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_content.part001.zip index:74
+[2023-11-23 04:11:17][notice]Compressing zip file:localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_content.part001.zip success. index:74 file size:2.93 MB
+[2023-11-23 04:11:17][notice]Backing up backup_content completed.
+[2023-11-23 04:11:17][notice]Prepare to backup backup_core files.
+[2023-11-23 04:11:19][notice]Compressing zip file:localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_core.part001.zip index:2633
+[2023-11-23 04:12:06][notice]Compressing zip file:localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_core.part001.zip success. index:2633 file size:80.41 MB
+[2023-11-23 04:12:06][notice]Backing up backup_core completed.
+[2023-11-23 04:12:06][notice]Prepare to backup backup_merge files.
+[2023-11-23 04:12:06][notice]Prepare to zip file. file: localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_db.zip
+[2023-11-23 04:12:06][notice]Adding zip files completed.localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.part001.zip, filesize: 1.45 MB
+[2023-11-23 04:12:06][notice]Prepare to zip file. file: localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_themes.zip
+[2023-11-23 04:12:06][notice]Adding zip files completed.localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.part001.zip, filesize: 5.60 MB
+[2023-11-23 04:12:06][notice]Prepare to zip file. file: localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_plugin.zip
+[2023-11-23 04:12:08][notice]Adding zip files completed.localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.part001.zip, filesize: 15.27 MB
+[2023-11-23 04:12:08][notice]Prepare to zip file. file: localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_uploads.zip
+[2023-11-23 04:12:08][notice]Adding zip files completed.localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.part001.zip, filesize: 18.18 MB
+[2023-11-23 04:12:08][notice]Prepare to zip file. file: localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_content.zip
+[2023-11-23 04:12:08][notice]Adding zip files completed.localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.part001.zip, filesize: 21.10 MB
+[2023-11-23 04:12:08][notice]Prepare to zip file. file: localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_core.zip
+[2023-11-23 04:12:11][notice]Adding zip files completed.localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.part001.zip, filesize: 58.29 MB
+[2023-11-23 04:12:11][notice]Backing up backup_merge completed.
+[2023-11-23 04:12:11][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:12:11][notice]Connect site 
+[2023-11-23 04:12:21][notice]Finish upload to send_to_site error:cURL error 28: Connection timeout after 10004 ms
+[2023-11-23 04:12:21][error]Uploading the file ends with an error cURL error 28: Connection timeout after 10004 ms
+[2023-11-23 04:12:21][error]Task timed out.
+[2023-11-23 04:12:31][notice]Start backing up.
+[2023-11-23 04:12:31][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:54.30 MB memory_get_peak_usage:54.54 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:12:31][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:12:31][notice]Connect site 
+[2023-11-23 04:12:39][notice]Start uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip
+[2023-11-23 04:12:49][notice]{"result":"failed","error":"cURL error 28: Connection timeout after 10004 ms"}
+[2023-11-23 04:12:49][notice]Failed upload backup, clear backup cache.
+[2023-11-23 04:12:59][notice]cURL error 28: Connection timeout after 10010 ms
+[2023-11-23 04:12:59][notice]Finish upload to send_to_site error:cURL error 28: Connection timeout after 10004 ms
+[2023-11-23 04:12:59][error]Uploading the file ends with an error cURL error 28: Connection timeout after 10004 ms
+[2023-11-23 04:12:59][error]Task timed out.
+[2023-11-23 04:13:33][notice]Start backing up.
+[2023-11-23 04:13:33][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:54.20 MB memory_get_peak_usage:54.43 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:13:33][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:13:33][notice]Connect site 
+[2023-11-23 04:13:33][notice]Start uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip
+[2023-11-23 04:13:35][notice]{"result":"success","file_status":{"status":"start"}}
+[2023-11-23 04:13:35][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 0
+[2023-11-23 04:13:45][notice]finished send chunk
+[2023-11-23 04:13:45][warning]upload file error offset:0 B error:cURL error 28: Connection timeout after 10009 ms
+[2023-11-23 04:13:45][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 0
+[2023-11-23 04:13:49][notice]finished send chunk
+[2023-11-23 04:13:49][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 2.00 MB speed:131.07kb/s
+[2023-11-23 04:13:49][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 2097152
+[2023-11-23 04:13:58][notice]finished send chunk
+[2023-11-23 04:13:58][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 4.00 MB speed:233.02kb/s
+[2023-11-23 04:13:58][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 4194304
+[2023-11-23 04:14:08][notice]finished send chunk
+[2023-11-23 04:14:08][warning]upload file error offset:4 MB error:cURL error 28: Connection timeout after 10014 ms
+[2023-11-23 04:14:08][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 4194304
+[2023-11-23 04:14:11][notice]finished send chunk
+[2023-11-23 04:14:11][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 6.00 MB speed:161.32kb/s
+[2023-11-23 04:14:11][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 6291456
+[2023-11-23 04:14:13][notice]finished send chunk
+[2023-11-23 04:14:13][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 8388608
+[2023-11-23 04:14:15][notice]finished send chunk
+[2023-11-23 04:14:15][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 10.00 MB speed:1048.58kb/s
+[2023-11-23 04:14:15][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 10485760
+[2023-11-23 04:14:16][notice]finished send chunk
+[2023-11-23 04:14:16][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 12582912
+[2023-11-23 04:14:18][notice]finished send chunk
+[2023-11-23 04:14:19][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 14680064
+[2023-11-23 04:14:20][notice]finished send chunk
+[2023-11-23 04:14:20][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 16.00 MB speed:1258.29kb/s
+[2023-11-23 04:14:20][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 16777216
+[2023-11-23 04:14:30][notice]finished send chunk
+[2023-11-23 04:14:30][warning]upload file error offset:16 MB error:cURL error 28: Connection timeout after 10007 ms
+[2023-11-23 04:14:30][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 16777216
+[2023-11-23 04:14:40][notice]finished send chunk
+[2023-11-23 04:14:40][warning]upload file error offset:16 MB error:cURL error 28: Connection timeout after 10014 ms
+[2023-11-23 04:14:40][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 16777216
+[2023-11-23 04:14:46][notice]finished send chunk
+[2023-11-23 04:14:46][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 18.00 MB speed:80.66kb/s
+[2023-11-23 04:14:46][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 18874368
+[2023-11-23 04:14:49][notice]finished send chunk
+[2023-11-23 04:14:49][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 20971520
+[2023-11-23 04:14:51][notice]finished send chunk
+[2023-11-23 04:14:51][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 22.00 MB speed:838.86kb/s
+[2023-11-23 04:14:51][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 23068672
+[2023-11-23 04:14:52][notice]finished send chunk
+[2023-11-23 04:14:52][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 25165824
+[2023-11-23 04:14:54][notice]finished send chunk
+[2023-11-23 04:14:54][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 27262976
+[2023-11-23 04:15:04][notice]finished send chunk
+[2023-11-23 04:15:04][notice]Failed upload backup, clear backup cache.
+[2023-11-23 04:15:14][notice]cURL error 28: Connection timeout after 10012 ms
+[2023-11-23 04:15:14][notice]Finish upload to send_to_site error:cURL error 28: Connection timeout after 10006 ms
+[2023-11-23 04:15:14][error]Uploading the file ends with an error cURL error 28: Connection timeout after 10006 ms
+[2023-11-23 04:15:14][error]Task timed out.
+[2023-11-23 04:15:26][notice]Start backing up.
+[2023-11-23 04:15:26][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:54.19 MB memory_get_peak_usage:54.43 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:15:26][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:15:26][notice]Connect site 
+[2023-11-23 04:15:30][notice]Start uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip
+[2023-11-23 04:15:40][notice]{"result":"failed","error":"cURL error 28: Connection timeout after 10008 ms"}
+[2023-11-23 04:15:40][notice]Failed upload backup, clear backup cache.
+[2023-11-23 04:15:50][notice]cURL error 28: Connection timeout after 10009 ms
+[2023-11-23 04:15:50][notice]Finish upload to send_to_site error:cURL error 28: Connection timeout after 10008 ms
+[2023-11-23 04:15:50][error]Uploading the file ends with an error cURL error 28: Connection timeout after 10008 ms
+[2023-11-23 04:15:50][error]Task timed out.
+[2023-11-23 04:16:26][notice]Start backing up.
+[2023-11-23 04:16:26][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:54.33 MB memory_get_peak_usage:54.56 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:16:26][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:16:26][notice]Connect site 
+[2023-11-23 04:16:36][notice]Finish upload to send_to_site error:cURL error 28: Connection timeout after 10011 ms
+[2023-11-23 04:16:36][error]Uploading the file ends with an error cURL error 28: Connection timeout after 10011 ms
+[2023-11-23 04:16:36][error]Task timed out.
+[2023-11-23 04:17:28][notice]Start backing up.
+[2023-11-23 04:17:28][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:54.20 MB memory_get_peak_usage:54.43 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:17:28][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:17:28][notice]Connect site 
+[2023-11-23 04:17:30][notice]Start uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip
+[2023-11-23 04:17:40][notice]{"result":"failed","error":"cURL error 28: Connection timeout after 10001 ms"}
+[2023-11-23 04:17:40][notice]Failed upload backup, clear backup cache.
+[2023-11-23 04:17:42][notice]Finish upload to send_to_site error:cURL error 28: Connection timeout after 10001 ms
+[2023-11-23 04:17:42][error]Uploading the file ends with an error cURL error 28: Connection timeout after 10001 ms
+[2023-11-23 04:17:42][error]Task timed out.
+[2023-11-23 04:18:30][notice]Start backing up.
+[2023-11-23 04:18:30][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:54.22 MB memory_get_peak_usage:54.45 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:18:30][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:18:30][notice]Connect site 
+[2023-11-23 04:18:40][notice]Finish upload to send_to_site error:cURL error 28: Connection timeout after 10002 ms
+[2023-11-23 04:18:40][error]Uploading the file ends with an error cURL error 28: Connection timeout after 10002 ms
+[2023-11-23 04:18:40][error]Task timed out.
+[2023-11-23 04:19:33][notice]Start backing up.
+[2023-11-23 04:19:33][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:54.20 MB memory_get_peak_usage:54.44 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:19:33][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:19:33][notice]Connect site 
+[2023-11-23 04:19:41][notice]Start uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip
+[2023-11-23 04:19:45][notice]{"result":"success","file_status":{"status":"continue","offset":27262976}}
+[2023-11-23 04:19:45][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 27262976
+[2023-11-23 04:19:54][notice]finished send chunk
+[2023-11-23 04:19:54][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 28.00 MB speed:2258.47kb/s
+[2023-11-23 04:19:54][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 29360128
+[2023-11-23 04:19:56][notice]finished send chunk
+[2023-11-23 04:19:56][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 31457280
+[2023-11-23 04:19:58][notice]finished send chunk
+[2023-11-23 04:19:58][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 32.00 MB speed:1048.58kb/s
+[2023-11-23 04:19:58][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 33554432
+[2023-11-23 04:20:08][notice]finished send chunk
+[2023-11-23 04:20:08][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 34.00 MB speed:209.72kb/s
+[2023-11-23 04:20:08][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 35651584
+[2023-11-23 04:20:10][notice]finished send chunk
+[2023-11-23 04:20:10][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 37748736
+[2023-11-23 04:20:13][notice]finished send chunk
+[2023-11-23 04:20:13][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 38.00 MB speed:838.86kb/s
+[2023-11-23 04:20:13][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 39845888
+[2023-11-23 04:20:22][notice]finished send chunk
+[2023-11-23 04:20:22][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 40.00 MB speed:233.02kb/s
+[2023-11-23 04:20:22][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 41943040
+[2023-11-23 04:20:29][notice]finished send chunk
+[2023-11-23 04:20:29][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 42.00 MB speed:299.59kb/s
+[2023-11-23 04:20:29][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 44040192
+[2023-11-23 04:20:32][notice]finished send chunk
+[2023-11-23 04:20:32][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 46137344
+[2023-11-23 04:20:36][notice]finished send chunk
+[2023-11-23 04:20:36][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 46.00 MB speed:599.19kb/s
+[2023-11-23 04:20:36][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 48234496
+[2023-11-23 04:20:38][notice]finished send chunk
+[2023-11-23 04:20:38][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 50331648
+[2023-11-23 04:20:41][notice]finished send chunk
+[2023-11-23 04:20:41][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 50.00 MB speed:838.86kb/s
+[2023-11-23 04:20:41][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 52428800
+[2023-11-23 04:20:51][notice]finished send chunk
+[2023-11-23 04:20:51][warning]upload file error offset:50 MB error:cURL error 28: Connection timeout after 10003 ms
+[2023-11-23 04:20:51][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 52428800
+[2023-11-23 04:21:01][notice]finished send chunk
+[2023-11-23 04:21:01][warning]upload file error offset:50 MB error:cURL error 28: Connection timeout after 10001 ms
+[2023-11-23 04:21:01][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 52428800
+[2023-11-23 04:21:04][notice]finished send chunk
+[2023-11-23 04:21:04][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 52.00 MB speed:91.18kb/s
+[2023-11-23 04:21:04][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 54525952
+[2023-11-23 04:21:07][notice]finished send chunk
+[2023-11-23 04:21:07][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 56623104
+[2023-11-23 04:21:09][notice]finished send chunk
+[2023-11-23 04:21:09][notice]Uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip Total size: 58.29 MB Uploaded: 56.00 MB speed:838.86kb/s
+[2023-11-23 04:21:09][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 58720256
+[2023-11-23 04:21:11][notice]finished send chunk
+[2023-11-23 04:21:11][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 60817408
+[2023-11-23 04:21:15][notice]finished send chunk
+[2023-11-23 04:21:15][notice]File md5 is not matched.
+[2023-11-23 04:21:15][warning]upload file error offset:58 MB error:File md5 is not matched.
+[2023-11-23 04:21:15][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 60817408
+[2023-11-23 04:21:16][notice]finished send chunk
+[2023-11-23 04:21:16][notice]File md5 is not matched.
+[2023-11-23 04:21:16][warning]upload file error offset:58 MB error:File md5 is not matched.
+[2023-11-23 04:21:16][notice]send chunk localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip offset 60817408
+[2023-11-23 04:21:17][notice]finished send chunk
+[2023-11-23 04:21:17][notice]File md5 is not matched.
+[2023-11-23 04:21:17][notice]Failed upload backup, clear backup cache.
+[2023-11-23 04:21:19][notice]Finish upload to send_to_site error:File md5 is not matched.
+[2023-11-23 04:21:19][error]Uploading the file ends with an error File md5 is not matched.
+[2023-11-23 04:21:19][error]Task timed out.
+[2023-11-23 04:21:31][notice]Start backing up.
+[2023-11-23 04:21:31][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:54.19 MB memory_get_peak_usage:54.43 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:21:31][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:21:31][notice]Connect site 
+[2023-11-23 04:21:32][notice]Start uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip
+[2023-11-23 04:21:42][notice]{"result":"failed","error":"cURL error 28: Connection timeout after 10013 ms"}
+[2023-11-23 04:21:42][notice]Failed upload backup, clear backup cache.
+[2023-11-23 04:21:43][notice]Finish upload to send_to_site error:cURL error 28: Connection timeout after 10013 ms
+[2023-11-23 04:21:43][error]Uploading the file ends with an error cURL error 28: Connection timeout after 10013 ms
+[2023-11-23 04:21:43][error]Task timed out.
+[2023-11-23 04:22:33][notice]Start backing up.
+[2023-11-23 04:22:33][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:54.20 MB memory_get_peak_usage:54.43 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:22:33][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:22:33][notice]Connect site 
+[2023-11-23 04:22:43][notice]Finish upload to send_to_site error:cURL error 28: Connection timeout after 10002 ms
+[2023-11-23 04:22:43][error]Uploading the file ends with an error cURL error 28: Connection timeout after 10002 ms
+[2023-11-23 04:22:43][error]Task timed out.
+[2023-11-23 04:23:36][notice]Start backing up.
+[2023-11-23 04:23:36][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:54.23 MB memory_get_peak_usage:54.45 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:23:36][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:23:36][notice]Connect site 
+[2023-11-23 04:23:46][notice]Finish upload to send_to_site error:cURL error 28: Connection timeout after 10015 ms
+[2023-11-23 04:23:46][error]Uploading the file ends with an error cURL error 28: Connection timeout after 10015 ms
+[2023-11-23 04:23:46][error]Task timed out.
+[2023-11-23 04:24:38][notice]Start backing up.
+[2023-11-23 04:24:38][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:54.20 MB memory_get_peak_usage:54.43 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:24:38][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:24:38][notice]Connect site 
+[2023-11-23 04:24:39][notice]Start uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip
+[2023-11-23 04:24:40][notice]{"result":"failed","error":"File md5 is not matched."}
+[2023-11-23 04:24:40][notice]Failed upload backup, clear backup cache.
+[2023-11-23 04:24:50][notice]cURL error 28: Connection timeout after 10010 ms
+[2023-11-23 04:24:50][notice]Finish upload to send_to_site error:File md5 is not matched.
+[2023-11-23 04:24:50][error]Uploading the file ends with an error File md5 is not matched.
+[2023-11-23 04:24:50][error]Task timed out.
+[2023-11-23 04:25:41][notice]Start backing up.
+[2023-11-23 04:25:41][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:54.22 MB memory_get_peak_usage:54.45 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:25:41][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:25:41][notice]Connect site 
+[2023-11-23 04:25:42][notice]Start uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip
+[2023-11-23 04:25:44][notice]{"result":"failed","error":"File md5 is not matched."}
+[2023-11-23 04:25:44][notice]Failed upload backup, clear backup cache.
+[2023-11-23 04:25:44][notice]Finish upload to send_to_site error:File md5 is not matched.
+[2023-11-23 04:25:44][error]Uploading the file ends with an error File md5 is not matched.
+[2023-11-23 04:25:44][error]Task timed out.
+[2023-11-23 04:26:43][notice]Start backing up.
+[2023-11-23 04:26:43][notice]server info fcgi:Off max execution time: 300 wp version:6.4.1 php version:8.2.4 db version:10.4.28 php ini:safe_mode: memory_limit:256M memory_get_usage:54.20 MB memory_get_peak_usage:54.43 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-11-23 04:26:43][notice]files: ["C:\/Users\/Pat\/Desktop\/Mukshit\/htdocs\/suiteConsultants\/wp-content\/wpvividbackups\/localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip"]
+[2023-11-23 04:26:43][notice]Connect site 
+[2023-11-23 04:26:44][notice]Start uploading localhost_suiteconsultants_wpvivid-655ed0bdbe0dc_2023-11-23-04-10_backup_all.zip
+[2023-11-23 04:26:45][notice]{"result":"failed","error":"File md5 is not matched."}
+[2023-11-23 04:26:45][notice]Failed upload backup, clear backup cache.
+[2023-11-23 04:26:46][notice]Finish upload to send_to_site error:File md5 is not matched.
+[2023-11-23 04:26:46][error]Uploading the file ends with an error File md5 is not matched.
+[2023-11-23 04:26:46][error]Backup the file ends with an error Too many resumption attempts.
