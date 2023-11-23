@@ -5,30 +5,39 @@ This document provides essential insights for new developers to seamlessly conti
 
 ## Theme Overview
 
-**Theme Name** : Consultancy Business Theme <br>
-**Author** : CMS Group1 <br> 
-**Version** : 1.0.0 <br>
+**Theme Name:** Consultancy Business Theme <br>
+**Author:** CMS Group1 <br> 
+**Version:** 1.0.0 <br>
 
-The "Consultancy Business Theme" theme is designed to meet the specific requirements of our client, Suite Consulting, a Netsuite consulting firm specializing in comprehensive solutions across the Netsuite ecosystem. This theme aims to align with Suite Consulting business goals, emphasizing their core focus areas of sales, services, and support. The objective is to create a modern and user-friendly online presence that reflects professionalism and expertise.
+The "Consultancy Business Theme" theme is designed to meet the specific requirements of our client, Suite Consulting, a Netsuite consulting firm specializing in comprehensive solutions across the Netsuite ecosystem. This theme aims to align with Suite Consulting business goals, emphasizing their core focus areas of sales, services, and support. The custom theme is derived from the WordPress default theme 2024. The objective is to create a modern and user-friendly online presence that reflects professionalism and expertise.
 
-**Theme installation**
+## Theme Installation
 
-1. Visit WordPress Themes Page:
-   - Go to [WordPress Themes](https://en-au.wordpress.org/themes/)
+Follow these simple steps to install and activate the Consultancy Business Theme on your WordPress site:
 
-2. Download Default Theme:
-   - Choose the default theme.
-   - Download the theme zip file.
+1. **Download the Theme:**
+   - Visit the [GitHub repository]([https://github.com/your-repository](https://github.com/CP3402Tri32023/CmsGroup1-/tree/main/wp-content/themes/consultancy-buriness-theme)) to download the Consultancy Business Theme.
 
-3. Upload and Activate:
-   - Log in to WordPress.
-   - Navigate to "Appearance" > "Themes."
-   - Click "Add New," then "Upload Theme."
-   - Upload the theme zip file and click "Activate."
+2. **Extract the Theme Files:**
+   - If you downloaded a ZIP file, extract its contents to reveal the theme folder.
 
-Now, your default WordPress theme is installed and active.
+3. **Upload to WordPress:**
+   - Navigate to your WordPress admin dashboard.
+   - Go to **Appearance > Themes.**
+   - Click the **'Add New'** button.
+   - Click the **'Upload Theme'** button.
+   - Choose the extracted theme folder and click **'Install Now.'**
 
-For customization, visit "Appearance" > "Customize."
+4. **Activate the Theme:**
+   - Once the theme is installed, click the **'Activate'** button to make it your active theme.
+
+5. **Configure Theme Settings:**
+   - Visit the **'Customizer'** (located under **Appearance**).
+   - Customize the theme settings, including logo, colors, and other options available.
+
+6. **Check your Site:**
+   - Visit your site to ensure that the Consultancy Business Theme is applied correctly.
+
 
 ## Theme Features
 
