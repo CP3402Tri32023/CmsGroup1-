@@ -1,8 +1,15 @@
-# Suite Consultants WordPress Theme 
+# Theme Documentation
+
+This document provides essential insights for new developers to seamlessly continue the development of our custom WordPress theme, named **"Consultancy Business Theme"**, created for Suite Consultants, a Netsuite consulting firm.
+
 
 ## Theme Overview
 
-The Suite Consulting WordPress theme is designed to meet the specific requirements of our client, Suite Consulting, a Netsuite consulting firm specializing in comprehensive solutions across the Netsuite ecosystem. This theme aims to align with Suite Consulting business goals, emphasizing their core focus areas of sales, services, and support. The objective is to create a modern and user-friendly online presence that reflects professionalism and expertise.
+**Theme Name** : Consultancy Business Theme <br>
+**Author** : CMS Group1 <br> 
+**Version** : 1.0.0 <br>
+
+The "Consultancy Business Theme" theme is designed to meet the specific requirements of our client, Suite Consulting, a Netsuite consulting firm specializing in comprehensive solutions across the Netsuite ecosystem. This theme aims to align with Suite Consulting business goals, emphasizing their core focus areas of sales, services, and support. The objective is to create a modern and user-friendly online presence that reflects professionalism and expertise.
 
 **Theme installation**
 
