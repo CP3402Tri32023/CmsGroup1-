@@ -16,7 +16,7 @@ The "Consultancy Business Theme" theme is designed to meet the specific requirem
 Follow these simple steps to install and activate the Consultancy Business Theme on your WordPress site:
 
 1. **Download the Theme:**
-   - Visit the [GitHub repository]([https://github.com/your-repository](https://github.com/CP3402Tri32023/CmsGroup1-/tree/main/wp-content/themes/consultancy-buriness-theme)) to download the Consultancy Business Theme.
+   - Visit the [GitHub repository](https://github.com/CP3402Tri32023/CmsGroup1-/tree/main/wp-content/themes/consultancy-buriness-theme) to download the Consultancy Business Theme.
 
 2. **Extract the Theme Files:**
    - If you downloaded a ZIP file, extract its contents to reveal the theme folder.
