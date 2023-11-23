@@ -10,6 +10,9 @@ This repository contains the custom WordPress theme developed by Group 1 for Sui
 - **Home Page Layout:** Visually appealing layout with researched data and engaging visuals.
 - **Form Integration:** Utilized WPForms for creating two types of forms - one for normal contact and another for enterprise-level inquiries.
 - **Blog Design:** Integrated Blog Designer Pack to create custom blog pages with diverse layouts.
+- **Custom Logo Design:** Implemented a unique and customized logo for Suite Consulting, enhancing brand identity.
+
+- **Social Media Icons:** Integrated Ultimate Social Media Icons for cohesive branding and easy access to Suite Consulting's social media platforms.
 
 ## Documentation
 
