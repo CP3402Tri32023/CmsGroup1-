@@ -38,55 +38,49 @@ Follow these simple steps to install and activate the Consultancy Business Theme
 6. **Check your Site:**
    - Visit your site to ensure that the Consultancy Business Theme is applied correctly.
 
-
 ## Theme Features
 
-### 1. Modern and User-Friendly Design
+### Custom Header and Footer
 
-- Visually appealing design to represent Suite Consulting brand.
-**COLOURS:** We maintained a simple colour scheme that is of Black and White spectrum ans a hint of orange to match the Netsuite site as well as Annexa site which was requisted by the client during our client meeting
+The Consultancy Business Theme offers a distinct design with a customized navigation menu, providing a seamless user experience. The header includes a prominent "Book a Demo" call-to-action button, strategically placed to encourage user interaction.
 
-- User-friendly interface for an optimal user experience.
+### Home Page Layout
 
-### 2. Business Goal Alignment
+Crafted for visual appeal, the home page layout combines engaging visuals with meticulously researched data. This ensures a compelling presentation of Suite Consultants' key offerings and establishes a positive first impression for website visitors.
 
-- Reflects Suite Consulting core business goals in the Netsuite ecosystem.
-- Emphasis on showcasing sales, services, support solutions, blogs as well as news and articles.
+### Form Integration
 
-### 3. Responsive Design
+Utilizing the power of WPForms, the theme incorporates two specialized forms:
+- **Normal Contact Form:** Designed for general inquiries and contact submissions.
+- **Enterprise-level Inquiry Form:** Featuring an array of fields catering to complex business requirements, ensuring comprehensive data collection.
 
-- Ensures optimal user experience across various devices and screen sizes.
+### Blog Design
 
-### 4. Content Management with WordPress
+Integrated with the News & Blog Designer Pack, the Consultancy Business Theme transforms the standard blog pages. Diverse layouts are implemented, enhancing the aesthetics of both the home page and the dedicated news section.
 
-- Utilizes the WordPress platform for easy content management.
+### Custom Logo Design
 
-### 5. Integration of Key Features
+The theme introduces a unique and customized logo tailored for Suite Consultanting firm. This design element contributes to brand identity, fostering recognition and trust among website visitors.
 
-- Implements essential features such as contact forms, service request forms, and other functionalities to enhance user engagement i.e. :
-  
-- **Custom Header and Footer:** Designed with a unique navigation menu and a prominent "Book a Demo" call-to-action button. Prominent "Book a Demo" CTA Button - Integrate a visually appealing and strategically placed "Book a Demo" call-to-action (CTA) button in the header for seamless access, encouraging users to engage with the demo request process. Bothe the header and footer of the theme will contain linked pages to the website as well as a logo.
-  
-- **Home Page Layout:** Visually appealing layout with researched data and engaging visuals. It has been meticulously crafted to deliver a visually appealing and engaging experience. Drawing from thoroughly researched data, the design will incorporate strategic placement of informative and captivating visuals to capture users' attention and communicate key messages effectively. The layout will seamlessly integrate dynamic elements, ensuring that the content remains fresh and relevant
-  
-- **Form Integration:** Utilized WPForms for creating two types of forms - one for normal contact and another for enterprise-level inquiries. they contained fields which the client had said they wanted such as First Name, Lats Name, Emails, Location and how they got to know about the company.
-  
-- **Blog Design:** Integrated Blog Designer Pack to create custom blog pages with diverse layouts. We made the blog to be appealing as well as customizable in the form of blocks
+### Social Media Icons
 
-### 6. SEO Optimization
+Seamlessly integrated with the Ultimate Social Media Icons plugin, the theme provides a cohesive branding experience. Social media icons are strategically placed in the footer, allowing easy access to Suite Consultants' various social media platforms.
 
-- Incorporates SEO best practices for improved visibility on search engines.
+### File Structure
 
-## Development Workflow
+All theme-specific files are organized within the `wp-content/themes/consultancy-business-theme` directory. This structured approach facilitates easy navigation and customization for developers working on the theme.
 
-- **Version Control:** Utilized GitHub for tracking, managing, and comparing code changes made by each team member.
+### Customization Points
 
+- **Logo Replacement:** Easily replace the existing logo file in the designated theme folder.
+- **Color Scheme Customization:** Tailor the color scheme to align with Suite Consultants' branding efforts by modifying the theme files.
+- **Navigation Menu Configuration:** Effortlessly modify the navigation menu through the WordPress admin for seamless adjustments to the site structure.
+- **Forms Customization:** Adapt form fields and styles using WPForms settings to meet any future changes in form requirements.
+
+These features collectively contribute to the Consultancy Business Theme's user-friendly design, robust functionality, and adaptability to Suite Consultants' specific needs.
 
 
-## Key Deliverables
 
-1. **Tailored WordPress Theme:**
-   - Fully functional and customized theme aligned with Suite Consulting branding.
 
 
 
