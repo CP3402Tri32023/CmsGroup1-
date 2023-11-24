@@ -40,8 +40,8 @@ This project, undertaken by Group 1, represents a collaborative effort to create
 Suite Consultanting is a leading Netsuite consulting firm known for its expertise in delivering top-notch solutions and support within the Netsuite ecosystem. With a commitment to excellence and client satisfaction, they approached our team to build a website that reflects their brand identity and effectively communicates their range of services.
 
 ### Repositories
-- [WordPress Theme Repository]
-- [Environment Repository]
+- [WordPress Theme Repository](https://github.com/CP3402Tri32023/CmsGroup1-/tree/main/wp-content/themes/consultancy-buriness-theme)
+- [Environment Repository](https://github.com/CP3402Tri32023/CmsGroup1-)
 
 ### Team Collaboration
 To streamline project communication and task management, our team utilized Slack for real-time communication, Trello for project tracking, and GitHub for version control. Regular updates and code contributions were committed to the GitHub repository, facilitating effective collaboration among team members.
